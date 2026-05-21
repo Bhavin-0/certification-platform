@@ -14,5 +14,8 @@ export const certificates: Record<string, CertificateConfig> = {
   },
   "NPTEL25DE03S340601212": {
     pdfPath: "/content/noc/NOC25/SEM1/Ecertificates/107/noc25-de03/Course/NPTEL25DE03S340601212.pdf"
+  },
+  "NPTEL25CS11S955200573": {
+    pdfPath: "/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs11/Course/NPTEL25CS11S955200573.pdf"
   }
 };
